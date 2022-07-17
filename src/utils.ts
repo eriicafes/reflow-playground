@@ -5,4 +5,7 @@ export const actions = {
   walk() {
     console.log("walking");
   },
+  yell() {
+    console.log("yelling");
+  },
 };
